@@ -1,0 +1,16 @@
+C:\Users\Dev\Desktop\nomeusuario\bin\Debug\net5.0\nomeusuario.exe
+C:\Users\Dev\Desktop\nomeusuario\bin\Debug\net5.0\nomeusuario.deps.json
+C:\Users\Dev\Desktop\nomeusuario\bin\Debug\net5.0\nomeusuario.runtimeconfig.json
+C:\Users\Dev\Desktop\nomeusuario\bin\Debug\net5.0\nomeusuario.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\nomeusuario\bin\Debug\net5.0\nomeusuario.dll
+C:\Users\Dev\Desktop\nomeusuario\bin\Debug\net5.0\ref\nomeusuario.dll
+C:\Users\Dev\Desktop\nomeusuario\bin\Debug\net5.0\nomeusuario.pdb
+C:\Users\Dev\Desktop\nomeusuario\obj\Debug\net5.0\nomeusuario.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\nomeusuario\obj\Debug\net5.0\nomeusuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\nomeusuario\obj\Debug\net5.0\nomeusuario.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\nomeusuario\obj\Debug\net5.0\nomeusuario.AssemblyInfo.cs
+C:\Users\Dev\Desktop\nomeusuario\obj\Debug\net5.0\nomeusuario.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\nomeusuario\obj\Debug\net5.0\nomeusuario.dll
+C:\Users\Dev\Desktop\nomeusuario\obj\Debug\net5.0\ref\nomeusuario.dll
+C:\Users\Dev\Desktop\nomeusuario\obj\Debug\net5.0\nomeusuario.pdb
+C:\Users\Dev\Desktop\nomeusuario\obj\Debug\net5.0\nomeusuario.genruntimeconfig.cache

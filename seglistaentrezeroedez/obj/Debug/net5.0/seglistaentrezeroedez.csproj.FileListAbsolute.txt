@@ -1,0 +1,16 @@
+C:\Users\Dev\Desktop\seglistaentrezeroedez\bin\Debug\net5.0\seglistaentrezeroedez.exe
+C:\Users\Dev\Desktop\seglistaentrezeroedez\bin\Debug\net5.0\seglistaentrezeroedez.deps.json
+C:\Users\Dev\Desktop\seglistaentrezeroedez\bin\Debug\net5.0\seglistaentrezeroedez.runtimeconfig.json
+C:\Users\Dev\Desktop\seglistaentrezeroedez\bin\Debug\net5.0\seglistaentrezeroedez.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\seglistaentrezeroedez\bin\Debug\net5.0\seglistaentrezeroedez.dll
+C:\Users\Dev\Desktop\seglistaentrezeroedez\bin\Debug\net5.0\ref\seglistaentrezeroedez.dll
+C:\Users\Dev\Desktop\seglistaentrezeroedez\bin\Debug\net5.0\seglistaentrezeroedez.pdb
+C:\Users\Dev\Desktop\seglistaentrezeroedez\obj\Debug\net5.0\seglistaentrezeroedez.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\seglistaentrezeroedez\obj\Debug\net5.0\seglistaentrezeroedez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\seglistaentrezeroedez\obj\Debug\net5.0\seglistaentrezeroedez.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\seglistaentrezeroedez\obj\Debug\net5.0\seglistaentrezeroedez.AssemblyInfo.cs
+C:\Users\Dev\Desktop\seglistaentrezeroedez\obj\Debug\net5.0\seglistaentrezeroedez.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\seglistaentrezeroedez\obj\Debug\net5.0\seglistaentrezeroedez.dll
+C:\Users\Dev\Desktop\seglistaentrezeroedez\obj\Debug\net5.0\ref\seglistaentrezeroedez.dll
+C:\Users\Dev\Desktop\seglistaentrezeroedez\obj\Debug\net5.0\seglistaentrezeroedez.pdb
+C:\Users\Dev\Desktop\seglistaentrezeroedez\obj\Debug\net5.0\seglistaentrezeroedez.genruntimeconfig.cache
